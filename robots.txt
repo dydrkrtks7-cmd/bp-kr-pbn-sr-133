@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://zone-info-note.hwagok-karaoke-insider.xyz/sitemap.xml
+Sitemap: https://zone-info-note.hwagok-karaoke-insider.xyz/sitemap-pages.xml
